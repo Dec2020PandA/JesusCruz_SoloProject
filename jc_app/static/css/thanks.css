@@ -1,0 +1,35 @@
+body {
+    font-family: 'Russo One', sans-serif;
+    color: white;
+    background-image: url("https://i.pinimg.com/originals/b9/b8/64/b9b8642f9db6c229dd62dc5615ab5bdd.jpg");
+    background-size: 100%;
+    /* background-repeat: round; */
+}
+
+div {
+    display: inline-block;
+}
+
+h1 {
+    margin-left: 300px;
+}
+
+#name {
+    display: inline-block;
+    padding-left: 20px;
+    margin-left: 10px;
+}
+
+.nav-links {
+    margin: 20px;
+    font-size: 20px;
+}
+
+#nav-bar {
+    margin-left: 500px;
+}
+
+#thanks {
+    text-align: center;
+    margin-top: 200px;
+}
